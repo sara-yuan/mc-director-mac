@@ -32,8 +32,8 @@
     },
     {
       "path": "server.cpython-312-darwin.so",
-      "sha256": "62f52c95caeea16dbf840f4412ed9641e31f0dc30322306f95447c3e264bde3a",
-      "size": 37031216,
+      "sha256": "e2fd571c71da26255fc64fb8dead48f3b66bbe5321c1806473d491958f2b030c",
+      "size": 37064112,
       "mode": "replace"
     },
     {
