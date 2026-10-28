@@ -68,7 +68,7 @@ def main():
     manifest = {
         "version": VERSION,
         "channel": "stable",
-        "notes": "Mac 云端连接版 %s：授权激活、双击 .app 启动、一键更新（独立更新源）。" % VERSION,
+        "notes": "Mac 云端连接版 %s：授权激活、双击 .app 启动、一键更新（独立更新源 mc-director-mac）" % VERSION,
         "base": "https://raw.githubusercontent.com/%s/main/dist/%s/" % (REPO, VERSION),
         "restart": "launcher",
         "oneshot_clean": [],

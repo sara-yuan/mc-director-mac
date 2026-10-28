@@ -1,27 +1,27 @@
 {
   "version": "2026.10.18",
   "channel": "stable",
-  "notes": "Mac 云端连接版 2026.10.18：授权激活、双击 .app 启动、一键更新（独立更新源）。",
+  "notes": "Mac 云端连接版 2026.10.18：授权激活、双击 .app 启动、一键更新（独立更新源 mc-director-mac）",
   "base": "https://raw.githubusercontent.com/sara-yuan/mc-director-mac/main/dist/2026.10.18/",
   "restart": "launcher",
   "oneshot_clean": [],
   "files": [
     {
       "path": "director.html.enc",
-      "sha256": "1b0539d95a4b41de658af0da5f7ef887ef637d65626826c5ae4d5457b6445db2",
-      "size": 5320789,
+      "sha256": "de8990576a2cd1e46dcd328e6c10d1bdde87a59cf27435029797f4bcb43e22c6",
+      "size": 5419594,
       "mode": "replace"
     },
     {
       "path": "director_logpopup.html.enc",
-      "sha256": "d57e73e72be2cec56959fbc4b57250b561cdf72204399c04f5ae034cd1005419",
-      "size": 1369405,
+      "sha256": "cf4c0be3fa20574c2cc324ceb8652da31ef3981d3d5abe61c5d03936dcec958c",
+      "size": 1367919,
       "mode": "replace"
     },
     {
       "path": "director_web.html.enc",
-      "sha256": "1079594de02b8450db574964e51590c993a6d04ff47f42e41b5408ae0db4ba4a",
-      "size": 112369,
+      "sha256": "67a648494630c96dce61904ece9406cffe3246d57ff72bf0a1b4fe9e023c91c4",
+      "size": 112771,
       "mode": "replace"
     },
     {
@@ -32,14 +32,14 @@
     },
     {
       "path": "server.cpython-312-darwin.so",
-      "sha256": "a5264431c8208f43111e4720efb19ab8669b484fc071fc138fea720968ca971d",
-      "size": 37097008,
+      "sha256": "005b0fe7fea05da612ebbba2296121540b9e3693884aa8ea4bb3780b10f6a2fd",
+      "size": 37078768,
       "mode": "replace"
     },
     {
       "path": "_mac_start.py",
-      "sha256": "ff2fb5b4595947638e6400109cbae0e1411e502784636d8975eaec3ad6fdecd7",
-      "size": 3059,
+      "sha256": "3ee852f172fa35fb4260e600d20b4753d4ee7112cb491e9ec90b752dfcc28c06",
+      "size": 3138,
       "mode": "replace"
     },
     {

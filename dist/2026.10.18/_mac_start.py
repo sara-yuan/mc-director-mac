@@ -48,6 +48,7 @@ def main():
             os.environ.setdefault(key, value)
     os.environ.setdefault("DIRECTOR_MANAGE_COMFY", "0")
     os.environ.setdefault("DIRECTOR_LICENSE_BYPASS", "0")
+    os.environ.setdefault("DIRECTOR_UPDATE_REPO", "sara-yuan/mc-director-mac")
     os.environ.setdefault("PYTHONIOENCODING", "utf-8")
     os.environ.setdefault("PYTHONUTF8", "1")
 
